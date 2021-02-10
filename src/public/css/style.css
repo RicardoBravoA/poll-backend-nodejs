@@ -10,6 +10,13 @@
 #menu-navbar{
     width: 100%;
 }
+.img-slider {
+    max-width: 60%;
+}
+.sheet-slider {
+    background-color: #ffffff;
+    text-align: center;
+}
 @media (min-width: 768px){
     .img-logo {
         max-width: 30%;
