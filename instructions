@@ -6,3 +6,5 @@ npm i nodemon --D
 
 //command in package json
 npm run dev
+
+npm i express-handlebars
