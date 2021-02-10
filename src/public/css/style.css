@@ -1,4 +1,4 @@
-.img-logo {
+.imglogo {
     max-width: 100%;
  }
  .navbar-brand {
@@ -7,18 +7,21 @@
 .border-bottom {
     border-bottom: 3px solid #d6d5d5  !important;
 }
-#menu-navbar{
+#menuNavbar{
     width: 100%;
 }
-.img-slider {
+.imgSlider {
     max-width: 60%;
 }
-.sheet-slider {
+.sheetSlider {
     background-color: #ffffff;
     text-align: center;
 }
+.sh__meta span, .sh__meta h4 {
+    color: rgb(85, 85, 85);
+}
 @media (min-width: 768px){
-    .img-logo {
+    .imglogo {
         max-width: 30%;
     }
 }
